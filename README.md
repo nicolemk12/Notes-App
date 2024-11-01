@@ -10,6 +10,9 @@ A simple, visually engaging note-taking application built with HTML, CSS, and Ja
 - **Visual Styling**: Enjoy a clean design with customized background images, shadows, and hover effects.
 - **User-Friendly Interface**: Simple controls with visually distinct buttons for a seamless experience.
 
+  ![Uploading Bildschirmfoto 2024-11-01 um 16.22.24.png…]()
+
+
 ## Tech Stack
 
 - **Frontend**: Pure HTML, CSS, and JavaScript, designed to be lightweight and fast.
