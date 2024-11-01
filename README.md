@@ -1,4 +1,4 @@
-# 📝 M yNotes-App
+# 📝 Notes-App
 
 A simple, visually engaging note-taking application built with HTML, CSS, and JavaScript. MyNotesApp allows users to create, view, edit, and delete notes in a user-friendly interface. Designed to be minimal yet functional, MyNotesApp is ideal for quick note-taking and organizing ideas.
 
