@@ -1,7 +1,3 @@
-Here’s a refined README based on your HTML, CSS, and JavaScript files:
-
----
-
 # 📝 M yNotes-App
 
 A simple, visually engaging note-taking application built with HTML, CSS, and JavaScript. MyNotesApp allows users to create, view, edit, and delete notes in a user-friendly interface. Designed to be minimal yet functional, MyNotesApp is ideal for quick note-taking and organizing ideas.
@@ -61,7 +57,3 @@ We welcome contributions! To contribute:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
-This README is tailored to reflect your app’s current features and code structure. Let me know if there’s anything more specific you'd like to include!
