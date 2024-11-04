@@ -11,6 +11,8 @@ A simple, visually engaging note-taking application built with HTML, CSS, and Ja
 - **User-Friendly Interface**: Simple controls with visually distinct buttons for a seamless experience.
 
 
+![App Screenshot](images/app-screenshot.png)
+
 ## Tech Stack
 
 - **Frontend**: Pure HTML, CSS, and JavaScript, designed to be lightweight and fast.
