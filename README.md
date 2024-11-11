@@ -26,7 +26,7 @@ No installation is necessary! Simply download the code and open `index.html` in 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/MyNotesApp.git
+   git clone https://github.com/nicolemk12/MyNotesApp.git
    cd MyNotesApp
    ```
 2. **Run Locally**: Open the `index.html` file in any browser.
